@@ -1,0 +1,8 @@
+#parent{
+    color: rgb(101, 26, 170);
+    background-color: rgb(182, 189, 213);
+    border-radius: 200px;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
