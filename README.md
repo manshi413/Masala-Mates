@@ -1,2 +1,2 @@
 # React
-Learning react
+Learning React
